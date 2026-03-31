@@ -19,7 +19,7 @@ The project consists of five tasks, each focusing on a different aspect of digit
 
 ## Repository Structure
 
-### 🔹 task-1-presentation/
+###  task-1-presentation/
 - Digital Literacy Awareness Infographic (created using Canva)  
 - Covers key topics such as digital literacy, digital tools, safe internet practices, professional presence, and email etiquette  
 
